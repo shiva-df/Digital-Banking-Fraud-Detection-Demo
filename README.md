@@ -1,5 +1,3 @@
-Here is a **clean, professional, submission-ready `README.md`** for your **Fraud Detection System** project.
-You can **directly copy–paste** this into your repository.
 
 ---
 
