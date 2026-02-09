@@ -289,8 +289,8 @@ npm start
 
 ## 👨‍💻 Author
 
-**Debanjan Mondal**
-B.Tech Final Year
+**Vankudovath Shiva**
+B.Tech Graduate
 Full-Stack & ML Enthusiast
 
 
